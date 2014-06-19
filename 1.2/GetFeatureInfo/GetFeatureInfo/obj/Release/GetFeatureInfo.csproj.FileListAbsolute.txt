@@ -1,0 +1,16 @@
+E:\Biology Data\2011\2011-07-11-Ultimate\1.2 版本\源代码\GetFeatureInfo\GetFeatureInfo\bin\Release\GetFeatureInfo.exe
+E:\Biology Data\2011\2011-07-11-Ultimate\1.2 版本\源代码\GetFeatureInfo\GetFeatureInfo\bin\Release\GetFeatureInfo.pdb
+E:\Biology Data\2011\2011-07-11-Ultimate\1.2 版本\源代码\GetFeatureInfo\GetFeatureInfo\obj\Release\ResolveAssemblyReference.cache
+E:\Biology Data\2011\2011-07-11-Ultimate\1.2 版本\源代码\GetFeatureInfo\GetFeatureInfo\obj\Release\GetFeatureInfo.FrmGetFeatureInfo.resources
+E:\Biology Data\2011\2011-07-11-Ultimate\1.2 版本\源代码\GetFeatureInfo\GetFeatureInfo\obj\Release\GetFeatureInfo.Properties.Resources.resources
+E:\Biology Data\2011\2011-07-11-Ultimate\1.2 版本\源代码\GetFeatureInfo\GetFeatureInfo\obj\Release\GetFeatureInfo.csproj.GenerateResource.Cache
+E:\Biology Data\2011\2011-07-11-Ultimate\1.2 版本\源代码\GetFeatureInfo\GetFeatureInfo\obj\Release\GetFeatureInfo.exe
+E:\Biology Data\2011\2011-07-11-Ultimate\1.2 版本\源代码\GetFeatureInfo\GetFeatureInfo\obj\Release\GetFeatureInfo.pdb
+C:\Users\Sky\Downloads\07-13-临时更新6元组-晚上再修改\07-13-临时更新6元组-晚上再修改\1.2版本-已修改6元组部分\源代码\GetFeatureInfo\GetFeatureInfo\obj\Release\GetFeatureInfo.exe
+C:\Users\Sky\Downloads\07-13-临时更新6元组-晚上再修改\07-13-临时更新6元组-晚上再修改\1.2版本-已修改6元组部分\源代码\GetFeatureInfo\GetFeatureInfo\obj\Release\GetFeatureInfo.pdb
+C:\Users\Sky\Downloads\07-13-临时更新6元组-晚上再修改\07-13-临时更新6元组-晚上再修改\1.2版本-已修改6元组部分\源代码\GetFeatureInfo\GetFeatureInfo\bin\Release\GetFeatureInfo.exe
+C:\Users\Sky\Downloads\07-13-临时更新6元组-晚上再修改\07-13-临时更新6元组-晚上再修改\1.2版本-已修改6元组部分\源代码\GetFeatureInfo\GetFeatureInfo\bin\Release\GetFeatureInfo.pdb
+C:\Users\Sky\Downloads\07-13-临时更新6元组-晚上再修改\07-13-临时更新6元组-晚上再修改\1.2版本-已修改6元组部分\源代码\GetFeatureInfo\GetFeatureInfo\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Sky\Downloads\07-13-临时更新6元组-晚上再修改\07-13-临时更新6元组-晚上再修改\1.2版本-已修改6元组部分\源代码\GetFeatureInfo\GetFeatureInfo\obj\Release\GetFeatureInfo.FrmGetFeatureInfo.resources
+C:\Users\Sky\Downloads\07-13-临时更新6元组-晚上再修改\07-13-临时更新6元组-晚上再修改\1.2版本-已修改6元组部分\源代码\GetFeatureInfo\GetFeatureInfo\obj\Release\GetFeatureInfo.Properties.Resources.resources
+C:\Users\Sky\Downloads\07-13-临时更新6元组-晚上再修改\07-13-临时更新6元组-晚上再修改\1.2版本-已修改6元组部分\源代码\GetFeatureInfo\GetFeatureInfo\obj\Release\GetFeatureInfo.csproj.GenerateResource.Cache
